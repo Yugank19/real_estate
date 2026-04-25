@@ -85,6 +85,7 @@ target/
 .mvn/
 !mvnw
 !mvnw.cmd
+application.properties
 
 # Frontend build
 frontend/real-estate-frontend/dist/
